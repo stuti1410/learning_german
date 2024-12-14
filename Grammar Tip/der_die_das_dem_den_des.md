@@ -44,6 +44,9 @@ To/For whom is the action happening?
 * Er hilft der Frau. (He helps the woman.)
 * Das Kind dankt dem Lehrer. (The child thanks the teacher.)
 
+### Tips
+* Prepositions like mit (always Dativ) and für (always Akkusativ).
+* Verbs like geben, helfen, danken often require Dativ for the indirect object.
 In everyday spoken German, Genitiv is less frequently used, and people often substitute it with Dativ + von:
 
 * Instead of: Das Auto des Mannes.
