@@ -5,4 +5,6 @@
 | Kommst du aus Frankreich? | Are you from france? |
 | Nein, ich komme aus österreich. | No, I am from Austria. |
 
-> Tip: To ask yes or no questions in German, just switch the position of the **subject** and the **verb**.
+> Tip: To ask yes or no questions in German, just switch the position of the **subject** and the **verb**.<br>
+> Example: Kanada is groß.<br>
+Ist Kanada groß?
