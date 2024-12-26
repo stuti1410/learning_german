@@ -3,10 +3,14 @@
 |--------|---------|
 | Kellner/Kellnerin |	Waiter/Waitress |
 | Speisekarte, bitte. |	The menu, please. |
+| Entschuldigung, wo ist die Speisekarte? | Excuse me, where is the menu? |
+| Hier ist die Speisekarte. | Here is the menu. |
 | Was empfehlen Sie? |	What do you recommend? |
 | Ich hätte gern... |	I would like... |
 | Ich nehme... |	I'll take... |
 | Was möchten Sie trinken? |	What would you like to drink? |
+| Ist die Pizza lecker? | Ist the pizza delicious? |
+| Nein, die Pizza ist kalt. | No, the pizza is cold. |
 | Die Rechnung, bitte. | The bill, please. |
 | Könnte ich bitte die Rechnung haben? | Could I please have the bill? |
 | Zahlen, bitte. | The check, please. |
