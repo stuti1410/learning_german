@@ -16,6 +16,14 @@
     <td>Guten Tag</td>
   </tr>
   <tr>
+    <td>Good afternoon, how are you?</td>
+    <td>Guten Tag, wie geht's?</td>
+  </tr>
+  <tr>
+    <td>Very good, thank you!</td>
+    <td>Sehr gut, danke!</td>
+  </tr>
+  <tr>
     <td>Good Evening</td>
     <td>Guten Abend</td>
   </tr>
