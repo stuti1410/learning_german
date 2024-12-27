@@ -7,6 +7,11 @@
 | Ich brauche...	| I need... |
 | Kann ich mit Karte zahlen?	| Can I pay by card? |
 | Das macht... Euro. |	That will be... Euros. |
+| Wie viel kostet der Tee? | How much does the tea cost? |
+| Der Tee kostet seiben Euro! | The tea costs seven euros! |
+| Drei Kilo Tomaten, bitte! | Three kilograms of tomatoes, please! |
+| Vielen Dank! | Thank you very much! |
+| Ja, gern geschehen! | Yes, you're welcome! |
 
 ## Important Words
 | German | English |
@@ -37,3 +42,6 @@ Mitarbeiter: Ein Liter Milch kostet 1,50 Euro.
 
 Kunde: Super, ich nehme zwei Liter.
 (Great, I’ll take two liters.)
+
+> Tip: In English we say **one euro**, **two euros**. Not in German! It's always just **Euro**.
+.
