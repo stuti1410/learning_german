@@ -21,6 +21,15 @@ Modal verbs are irregular, so their conjugation is unique.
 | Ihr | könnt |
 | Sie/sie | können |
 
+## Key Phrases
+| German | English |
+|--------|---------|
+| Möchtest du ins Kino oder ins Museum gehen? | Would you like to go to the movie theatre or the musuem? |
+| Ich kann nicht, ich habe kein Geld! | I can't, I have no money! |
+| Ich möchte am Wochenende wandern gehen. | I would like to go hiking on the weekend. |
+| Hast du heute Abend Zeit? | Do you have time this evening? |
+| Ja, ich habe Zeit. | Yes, I have time. |
+
 ## Practice Sentences
 1. I can swim.<br>
   Ich kann schwimmen.
@@ -32,3 +41,11 @@ Modal verbs are irregular, so their conjugation is unique.
   Er will fernsehen.
 5. They should help their parents.<br>
   Sie sollen ihren Eltern helfen.
+
+> Tip: In English, we say **I'd like "to go" to the movies.**. In German, that second verb goes to the end!
+
+>Möchtest du ins Kino **gehen**?<br>
+>Would you like to go to the movies?
+
+>Ich möchte ins Schwimmbad **gehen**.<br>
+>I would like to go to the swimminh pool.
