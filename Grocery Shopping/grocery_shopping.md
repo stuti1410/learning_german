@@ -44,4 +44,3 @@ Kunde: Super, ich nehme zwei Liter.
 (Great, I’ll take two liters.)
 
 > Tip: In English we say **one euro**, **two euros**. Not in German! It's always just **Euro**.
-.
