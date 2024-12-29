@@ -18,6 +18,12 @@
 | Bar bezahlen | Pay in cash. |
 | Ich zahle mit karte. | I will pay with card. |
 | Haben Sie Wechselgeld? | Do you have change? |
+| Hallo, hast du Hunger? | Hello, are you hungry? |
+| Ich habe keinen Hunger. | I am not hungry. |
+| Hier ist die Rechnung, zahlen Sie zusammen? | Here is the check, are you paying together? |
+| Wir möchten zusammen zahlen, danke. | We would like to pay together, thank you. |
+| Das macht zusammen fünfundzwanzig Euro. | That comes to twenty-five euros together. |
+| Guten Appetit! | Enjoy your meal! |
 
 ## Example Conversation
 **Kellnerin**: Guten Tag! Was möchten Sie trinken? (Good day! What would you like to drink?)
@@ -42,3 +48,10 @@
 | vegetarische gerichte | vegetarian dishes |
 | Kreditkarte | Credit card |
 
+>**Tip:** In English we don't say **for I**, we say **for me**. German is the same way!
+
+>Und für Sie?<br>
+>And for you?
+
+>Für **mich** eine Cola.<br>
+>For me a cola.
