@@ -20,7 +20,7 @@ Use **nicht** before an adjective to say it isn't so!
 - Magst du **den** Tisch?<br>
 Do you like the table?
 
-- Ich habe keinen Teppich.<br>
+- Ich habe **keinen** Teppich.<br>
 I don't have a carpet.
 
 That's just for masculine singular nouns though! Others stay the same.
