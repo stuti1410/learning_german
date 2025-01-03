@@ -36,6 +36,7 @@
 | Wir sehen im Kino einen Flim. | We are seeing a movie in the movie theatre. |
 | Max, möchtest du einen Film sehen? | Max, would you like to watch a movie? |
 | Mia und Markus, spielt ihr Tennis? | Mian and Markus, do you play Tennis? |
+| Peter und Alex, könnt ihr ein Instrument spielen? | Peter and Alex, can you play an instrument? |
 
 >**Tip:** If you don't like to do something, put **nicht gern** after the verb!
 
