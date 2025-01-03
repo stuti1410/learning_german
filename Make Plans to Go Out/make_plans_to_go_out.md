@@ -24,6 +24,18 @@
 | Max und Mia, möchtet ihr tanzen gehen. | Max and Mia, would you like to go dancing? |
 | Wir gehen morgen tanzen. | We are going dancing tomorrow. |
 | Diene Freunde gehen am Samstag tanzen. | Your friends are going dancing on Saturday. |
+| Ich mag den Flim nicht! | I don't like the movie. |
+| Die Geiger ist sehr teuer. | The voilin is very expensive. |
+| Speilst du ein Instrument? | Do you play an instrument? |
+| Ich kann ein Instrument spielen, und du? | I can play an instrument, and you? |
+| Max und Nina, habt ihr heute Zeit? | Max and Nina, do you have time today? |
+| Alex und Julia, welche Hobbys habt ihr? | Alex and Julia, which hobbies do you have? |
+| Wir möchten zusammen surfen gehen. | We would like to go surfing together. |
+| Gut! Wann habt ihr Zeit? | Good! when do you have time? |
+| Ich mag Fußball, möchtest du ein Spiel sehen? | I like soccer, would you like to watch a game? |
+| Wir sehen im Kino einen Flim. | We are seeing a movie in the movie theatre. |
+| Max, möchtest du einen Film sehen? | Max, would you like to watch a movie? |
+| Mia und Markus, spielt ihr Tennis? | Mian and Markus, do you play Tennis? |
 
 >**Tip:** If you don't like to do something, put **nicht gern** after the verb!
 
