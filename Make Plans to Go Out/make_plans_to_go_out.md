@@ -37,6 +37,10 @@
 | Max, möchtest du einen Film sehen? | Max, would you like to watch a movie? |
 | Mia und Markus, spielt ihr Tennis? | Mian and Markus, do you play Tennis? |
 | Peter und Alex, könnt ihr ein Instrument spielen? | Peter and Alex, can you play an instrument? |
+| Möchtest du tanzen? | Would you like to dance? |
+| Diene Freunde gehen am Samstag tanzen. | Your friends are going to dance on Saturday. |
+| Diene Gitarre ist alt. | Your guitar is old. |
+| Tanzt du oft am Wochenende? | Do you often dance on the weekend? |
 
 > [!Tip]
 > If you don't like to do something, put **nicht gern** after the verb!
