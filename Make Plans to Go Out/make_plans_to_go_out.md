@@ -41,6 +41,7 @@
 | Diene Freunde gehen am Samstag tanzen. | Your friends are going to dance on Saturday. |
 | Diene Gitarre ist alt. | Your guitar is old. |
 | Tanzt du oft am Wochenende? | Do you often dance on the weekend? |
+| Kannst du für mich Gitarre spielen? | Can you play guitar for me? |
 
 > [!Tip]
 > If you don't like to do something, put **nicht gern** after the verb!
