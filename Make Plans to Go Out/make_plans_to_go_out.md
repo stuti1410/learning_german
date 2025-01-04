@@ -4,7 +4,7 @@
 | Ich muss leider arbeiten. | I unfortunately have to work. |
 | Willst du am Wochenende grillen? | Do you want to grill on the weekend? |
 | Ich will nächste Woche grillen. | I want to grill next week. |
-| Willst di später Basketball spielen. | Do you want to play basketball later? |
+| Willst du später Basketball spielen. | Do you want to play basketball later? |
 | Danke, aber ich habe keine Lust. | Thank you, but I don't want to. |
 | Tanzt du gern? | Do you like to dance? |
 | Du tanzt wirklich gut! | You dance really well! |
