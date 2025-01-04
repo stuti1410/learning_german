@@ -38,7 +38,8 @@
 | Mia und Markus, spielt ihr Tennis? | Mian and Markus, do you play Tennis? |
 | Peter und Alex, könnt ihr ein Instrument spielen? | Peter and Alex, can you play an instrument? |
 
->**Tip:** If you don't like to do something, put **nicht gern** after the verb!
+> [!Tip]
+> If you don't like to do something, put **nicht gern** after the verb!
 
 >Ich tanze **gern**, aber sie tanzt **nicht gern**.<br>
 >I like to dance, but she doesn't like to dance.
