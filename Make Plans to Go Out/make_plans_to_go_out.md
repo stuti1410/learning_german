@@ -44,6 +44,7 @@
 | Kannst du für mich Gitarre spielen? | Can you play guitar for me? |
 | Ich möchte einen Film sehen. Ich gehe ins Kino. | I would like to watch a movie. I am going to the movie theatre. |
 | Der Film dauert bis acht Uhr. | The movie lasts until 8 o'clock. |
+| Ich möchte am Wochenende einen Film sehen. | I would like to watch a movie on the weekend. |
 
 > [!Tip]
 > If you don't like to do something, put **nicht gern** after the verb!
