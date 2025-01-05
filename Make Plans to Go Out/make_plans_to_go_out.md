@@ -57,6 +57,13 @@
 | Ich will wandern gehen, aber es regnet. | I want to go hiking, but it is raining. |
 | Meine Schwester hört nicht gern Jazz. | My sister doesn't like to listen to jazz. |
 | Ich will im Urlaub surfen. | I want to surf on vacation. |
+| Ich campe oft im Wald. | I camp often in the forest. |
+| Die Hexe kocht gern. | The witch likes to cook. |
+| Wollt ihr am Wochenende im Wald campen? | Do you want to camp in the forest on the weekend? |
+| Die Hexe ist meine Freundin. | The witch is my friend. |
+| Duo und Markus, wollt ihr zusammen Jazz hören? | Duo and Markus, do you want to listen to jazz together? |
+| Die Hexe campt gern im Wald. | The witch likes to camp in the forest. |
+| Die Hexe hat eine Eule. | The witch has an owl. |
 
 > [!Tip]
 > If you don't like to do something, put **nicht gern** after the verb!
