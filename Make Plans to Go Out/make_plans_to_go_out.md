@@ -48,6 +48,15 @@
 | Ich kann kein Instrument spielen. | I can't play an instrument. |
 | Carlos und Alex, habt ihr einen Volleyball? | Carlos and Alex, do you have a voleeyball? |
 | Magst du Tennis spielen? OR<br> Spielst du gern Tennis? | Do you like to play Tennis? |
+| Ich will ins Kino gehen. | I want to go to the movie theatre. |
+| Willst du morgne ins Kino gehen? | Do you want to go to the movie theatre tomorrow? |
+| Willst du morgen joggen gehen? | Do you want to go jogging tomorrow? |
+| Martin und Julia, hört ihr jeden Tag Jazz? | Martin and Julia, do you listen to Jazz every day? |
+| Ali und Lukas, warum hört ihr nicht gern Jazz? | Ali and Lukas, why don't you like to listen to jazz? |
+| Mein Mann spielt sehr gern videospiele. | My husband really likes to play video games. |
+| Ich will wandern gehen, aber es regnet. | I want to go hiking, but it is raining. |
+| Meine Schwester hört nicht gern Jazz. | My sister doesn't like to listen to jazz. |
+| Ich will im Urlaub surfen. | I want to surf on vacation. |
 
 > [!Tip]
 > If you don't like to do something, put **nicht gern** after the verb!
