@@ -2,4 +2,4 @@
 |---------|--------|
 | Strawberry | die Erdbeeren |
 | Pineapple | die Ananas |
-| Paprika | Paprika |
+| Paprika | die Paprika |
