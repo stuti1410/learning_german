@@ -1,3 +1,3 @@
 | English | German |
 |---------|--------|
-| Nose | Nase |
+| Nose | die Nase |
