@@ -1,5 +1,5 @@
 | English | German |
 |---------|--------|
-| Strawberry | Erdbeeren |
-| Pineapple | Ananas |
+| Strawberry | die Erdbeeren |
+| Pineapple | die Ananas |
 | Paprika | Paprika |
