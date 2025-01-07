@@ -2,3 +2,4 @@
 |---------|--------|
 | Information | die Information |
 | Music | die Musik |
+| Clock | Uhr |
