@@ -64,6 +64,9 @@
 | Duo und Markus, wollt ihr zusammen Jazz hören? | Duo and Markus, do you want to listen to jazz together? |
 | Die Hexe campt gern im Wald. | The witch likes to camp in the forest. |
 | Die Hexe hat eine Eule. | The witch has an owl. |
+| Nein, ich mag das kleid nicht. | No, I don't like the dress. |
+| Ich koche oft im Urlaub. | I often cook on vacation. |
+| Gehen Sie fünfzehn Minuten zu Fuß. | Go fifteen minutes by foot. |
 
 > [!Tip]
 > If you don't like to do something, put **nicht gern** after the verb!
