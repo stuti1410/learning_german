@@ -1,4 +1,4 @@
 | English | German |
 |---------|--------|
 | Nose | die Nase |
-| Mouth | Mund |
+| Mouth | der Mund |
