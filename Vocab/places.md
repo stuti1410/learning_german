@@ -3,3 +3,4 @@
 | Hospital | das Krankenhaus |
 | Munich | Munchen |
 | Coffee shop | das Café |
+| University | Universität |
