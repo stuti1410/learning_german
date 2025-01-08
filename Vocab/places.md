@@ -4,3 +4,4 @@
 | Munich | Munchen |
 | Coffee shop | das Café |
 | University | Universität |
+| Austria | Österreich |
