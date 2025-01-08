@@ -2,3 +2,4 @@
 |---------|--------|
 | Salad | der Salat |
 | Can (Tin can) | die Dose |
+| Pill | Tablette |
