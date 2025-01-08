@@ -25,7 +25,7 @@
 | Wir gehen morgen tanzen. | We are going dancing tomorrow. |
 | Diene Freunde gehen am Samstag tanzen. | Your friends are going dancing on Saturday. |
 | Ich mag den Flim nicht! | I don't like the movie. |
-| Die Geiger ist sehr teuer. | The voilin is very expensive. |
+| Die Geige ist sehr teuer. | The violin is very expensive. |
 | Speilst du ein Instrument? | Do you play an instrument? |
 | Ich kann ein Instrument spielen, und du? | I can play an instrument, and you? |
 | Max und Nina, habt ihr heute Zeit? | Max and Nina, do you have time today? |
@@ -46,7 +46,7 @@
 | Der Film dauert bis acht Uhr. | The movie lasts until 8 o'clock. |
 | Ich möchte am Wochenende einen Film sehen. | I would like to watch a movie on the weekend. |
 | Ich kann kein Instrument spielen. | I can't play an instrument. |
-| Carlos und Alex, habt ihr einen Volleyball? | Carlos and Alex, do you have a voleeyball? |
+| Carlos und Alex, habt ihr einen Volleyball? | Carlos and Alex, do you have a volleyball? |
 | Magst du Tennis spielen? OR<br> Spielst du gern Tennis? | Do you like to play Tennis? |
 | Ich will ins Kino gehen. | I want to go to the movie theatre. |
 | Willst du morgne ins Kino gehen? | Do you want to go to the movie theatre tomorrow? |
@@ -67,6 +67,15 @@
 | Nein, ich mag das kleid nicht. | No, I don't like the dress. |
 | Ich koche oft im Urlaub. | I often cook on vacation. |
 | Gehen Sie fünfzehn Minuten zu Fuß. | Go fifteen minutes by foot. |
+| Ich möchte am Wochenende einen Film sehen. | I would like to watch a movie on the weekend. |
+| Ich tanze jeden Samstag. | I dance every Saturday. |
+| Wir machen eine Party und tanzen zu Hause. | We are having a party and dancing at home. |
+| Spielst du Geige oder Gitarre? | Do you play violin or guitar? |
+| Wir möchte nächste Woche grillen. | We would like to grill next week. |
+| Wollt ihr am Wochenende im Wald  campen? | Do you want to camp in the forest on the weekend? |
+| Willst du am Wochenende grillen? | Do you want to grill on the weekend? |
+| Ich höre gern im Bett Podcasts und Jazz. | I like to listen to podcasts and jazz in bed. |
+| Warum hörst du nicht gern Podcasts? | Why don't you like to listen to podcasts? |
 
 > [!Tip]
 > If you don't like to do something, put **nicht gern** after the verb!
