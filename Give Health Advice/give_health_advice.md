@@ -14,3 +14,4 @@
 | Ich habe nachts immer hunger. | I am always hungry at night. |
 | Ich schlafe nicht viel nachts. | I don't sleep much at niht. |
 | Ich esse machmal zu viel. | I sometimes eat too much. |
+| Wo ist das Krankenhaus? | Where is the hospital? |
