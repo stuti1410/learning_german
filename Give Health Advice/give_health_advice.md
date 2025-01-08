@@ -15,3 +15,16 @@
 | Ich schlafe nicht viel nachts. | I don't sleep much at niht. |
 | Ich esse machmal zu viel. | I sometimes eat too much. |
 | Wo ist das Krankenhaus? | Where is the hospital? |
+| Hast du Kopfschmerzen? | Do you have a headache? |
+| Hast du eine Tablette? | Do you have a pill? |
+| Brauchst du eine Tablette? | Do you need a pill? |
+| Heidi, trink nur Wasser. | Heide, drink only water. |
+| Hast du Durst? Trink Wasser! | Are you thirsty? Drink water! |
+| Robert, trink heute Abend nur Tee. | Robert, drink only tea this evening. |
+| Ich muss zum Arzt gehen. | I have to go to the doctor. |
+| Tom, geh zum Arzt, bitte. | Tom, go to the doctor, please. |
+| Du bist krank, Dave, geh zum Arzt. | You are sick, Dave, go to the doctor. |
+| Du bist müde und traurig, geh zum Arzt! | You are tired and sad, go to the doctor! |
+| Iss nicht zu viel Schnitzel, Lisa! | Don't eat too much Schnitzel, Lisa! |
+| Mila, du bist krank,iss nur Suppe. | Mila, you are sich, eat only soup. |
+| Angela, iss keine pizza heute. | Angela, don't eat pizza today. |
