@@ -11,3 +11,4 @@
 | expensive | teuer |
 | sometimes | manchmal |
 | appointment | Termin |
+| anymore | mehr |
