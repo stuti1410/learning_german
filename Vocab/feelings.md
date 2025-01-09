@@ -5,3 +5,4 @@
 | sad | Trairig |
 | stomachache | Brauchschmerzen |
 | happy | Glücklich |
+| healthy | Gesund |
