@@ -28,3 +28,9 @@
 | Iss nicht zu viel Schnitzel, Lisa! | Don't eat too much Schnitzel, Lisa! |
 | Mila, du bist krank,iss nur Suppe. | Mila, you are sich, eat only soup. |
 | Angela, iss keine pizza heute. | Angela, don't eat pizza today. |
+| Mein Termin ist um zehn Uhr. | My appointment is at 10 o'clock. |
+| Ich möchte einen Termin machen. | I would like to make an appointment. |
+| Um wie viel Uhr können Sie kommen? | At what time can you come? |
+| Um wie viel Uhr möchten Sie einen Termin machen? | At what time would you like to have an appointment? |
+| Ja, ich habe Fieber. | Yes, I have a fever. |
+| Ich habe Bauchschmerzen. | I have a stomachache. |
