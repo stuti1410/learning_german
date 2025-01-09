@@ -8,7 +8,7 @@
 | Ich bin krank. | I am sick. |
 | Bist du krank? | Are you sick? |
 | Ich bin traurig. | I am sad. |
-| Spreche ich zu viel. | Do I speak too much. |
+| Spreche ich zu viel? | Do I speak too much? |
 | Ich schlafe nicht gut. | I don't sleep well. |
 | Mein Bett ist nicht bequem und ich schlafe nicht viel. | My bed is not comfortable and I don't sleep much. |
 | Ich habe nachts immer hunger. | I am always hungry at night. |
@@ -41,3 +41,5 @@
 | Hier ist eine Suppe, gute Besserung. | Here is a soup, feel better. |
 | Gute Besserung! | Feel better! |
 | Hurra, du bist gesund! | Hooray, you are healthy! |
+| Danke, ich habe keine Zahnschmerzen mehr. | Thank you, I don't have a toothache anymore. |
+| Ich habe nachts immer durst. | I am always thirsty at night. |
