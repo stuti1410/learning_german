@@ -6,3 +6,4 @@
 | stomachache | Brauchschmerzen |
 | happy | Glücklich |
 | healthy | Gesund |
+| toothache | Zahnschmerzen |
