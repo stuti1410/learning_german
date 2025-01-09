@@ -10,3 +10,4 @@
 | cheap | billig |
 | expensive | teuer |
 | sometimes | manchmal |
+| appointment | Termin |
