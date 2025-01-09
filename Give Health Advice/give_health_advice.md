@@ -34,3 +34,7 @@
 | Um wie viel Uhr möchten Sie einen Termin machen? | At what time would you like to have an appointment? |
 | Ja, ich habe Fieber. | Yes, I have a fever. |
 | Ich habe Bauchschmerzen. | I have a stomachache. |
+| Ich muss im Bett bleiben und schlafen. | I have to stay in bed and sleep. |
+| Mia macht eine Party, aber ich muss im Bett bleiben. | Mia is having a party, but I have to stay in bed. |
+| Ich bin krank und ich kann nicht schlafen. | I am sick and I can't sleep. |
+| Sie müssen Wasser trinken, Frau Schiller. | You have to drink water, Ms. Schiller. |
