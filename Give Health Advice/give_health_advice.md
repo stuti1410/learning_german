@@ -38,3 +38,6 @@
 | Mia macht eine Party, aber ich muss im Bett bleiben. | Mia is having a party, but I have to stay in bed. |
 | Ich bin krank und ich kann nicht schlafen. | I am sick and I can't sleep. |
 | Sie müssen Wasser trinken, Frau Schiller. | You have to drink water, Ms. Schiller. |
+| Hier ist eine Suppe, gute Besserung. | Here is a soup, feel better. |
+| Gute Besserung! | Feel better! |
+| Hurra, du bist gesund! | Hooray, you are healthy! |
