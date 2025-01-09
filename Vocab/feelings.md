@@ -4,3 +4,4 @@
 | headache | Kopfschmerzen |
 | sad | Trairig |
 | stomachache | Brauchschmerzen |
+| happy | Glücklich |
