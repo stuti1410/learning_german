@@ -43,3 +43,5 @@
 | Hurra, du bist gesund! | Hooray, you are healthy! |
 | Danke, ich habe keine Zahnschmerzen mehr. | Thank you, I don't have a toothache anymore. |
 | Ich habe nachts immer durst. | I am always thirsty at night. |
+| Mila, du bist krank, iss nur Suppe. | Mila, you are sick, eat only soup. |
+| Anna, geh ins Krankenhaus, bitte. | Anna, go to the hospital, please. |
