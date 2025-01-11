@@ -45,6 +45,9 @@
 | Ich habe nachts immer durst. | I am always thirsty at night. |
 | Mila, du bist krank, iss nur Suppe. | Mila, you are sick, eat only soup. |
 | Anna, geh ins Krankenhaus, bitte. | Anna, go to the hospital, please. |
+| Um wie viel Uhr ist Ihr Termin? | At what time is your appointment? |
+| Dass Krankenhaus ist bis siebzehn Uhr geöffnet. | The hospital is open until five o'clock. |
+| Ich möchte einen Termin machen. | I would like to make an appointment. |
 
 > [!TIP]
 > Ifyou want to tell someone to do something, and you're on informal terms with them, the verb looks a bit different - it doesn't end in **-st** like the usual **du** form!
