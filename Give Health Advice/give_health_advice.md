@@ -45,3 +45,14 @@
 | Ich habe nachts immer durst. | I am always thirsty at night. |
 | Mila, du bist krank, iss nur Suppe. | Mila, you are sick, eat only soup. |
 | Anna, geh ins Krankenhaus, bitte. | Anna, go to the hospital, please. |
+
+> [!TIP]
+> Ifyou want to tell someone to do something, and you're on informal terms with them, the verb looks a bit different - it doesn't end in **-st** like the usual **du** form!
+
+> **Geh** zum Arzt!<br>Go to the doctor!
+> **Iss** Suppe!<br>Eat soup!
+
+> [!TIP]
+> Remember, put words describing when something happens right after the verb.
+
+> Ich schlafe **nachts** nicht.<br>I don't sleep at night.  
