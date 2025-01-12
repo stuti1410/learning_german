@@ -57,4 +57,4 @@ _Sari: But this year you have a gift for me: The T-shirt!_
 _Lilli: Great, thanks._
 
 - **Sari:** Nein, nein. Ich sage danke.<br>
-_Sari: No, no. I say thank you._
+_Sari: No, no. I am saying thank you._
