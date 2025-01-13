@@ -48,6 +48,7 @@
 | Um wie viel Uhr ist Ihr Termin? | At what time is your appointment? |
 | Dass Krankenhaus ist bis siebzehn Uhr geöffnet. | The hospital is open until five o'clock. |
 | Ich möchte einen Termin machen. | I would like to make an appointment. |
+| Herr Smith, Sie müssen heute im Bett bleiben. | Mr. Smith, you have to stay in bed today. |
 
 > [!TIP]
 > Ifyou want to tell someone to do something, and you're on informal terms with them, the verb looks a bit different - it doesn't end in **-st** like the usual **du** form!
