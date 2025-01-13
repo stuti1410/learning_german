@@ -54,6 +54,7 @@
 > Ifyou want to tell someone to do something, and you're on informal terms with them, the verb looks a bit different - it doesn't end in **-st** like the usual **du** form!
 
 > **Geh** zum Arzt!<br>Go to the doctor!
+
 > **Iss** Suppe!<br>Eat soup!
 
 > [!TIP]
