@@ -13,3 +13,5 @@
 | appointment | Termin |
 | anymore | mehr |
 | pill | tablette |
+| Psychology | Psychologie |
+| difficult | schwer |
