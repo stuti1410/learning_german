@@ -8,3 +8,6 @@
 | Was studiert dein Sohn? | What does your son study? |
 | Er studiert Psychologie und sie studiert Deutsch. |
 | Geschichte ist interessant. | History is interesting. |
+| Er studiert Gschichte und geht gern ins Museum. | He studies history and like to go to the museum. |
+| Mein Sohn ist achtzehn Jahre alt. | My son is 18 years old. |
+| Der Lehrer ist nur neunzehn Jahre alt. | The teacher is only 19 years old. |
