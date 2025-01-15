@@ -12,3 +12,4 @@
 | sometimes | manchmal |
 | appointment | Termin |
 | anymore | mehr |
+| pill | tablette |
