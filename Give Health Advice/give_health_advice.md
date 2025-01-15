@@ -50,6 +50,7 @@
 | Ich möchte einen Termin machen. | I would like to make an appointment. |
 | Herr Smith, Sie müssen heute im Bett bleiben. | Mr. Smith, you have to stay in bed today. |
 | Bist du traurig? | Are you sad? |
+| Trink heute keinen Kaffee, Mark. | Don't drink coffee today, Mark. |
 
 > [!TIP]
 > Ifyou want to tell someone to do something, and you're on informal terms with them, the verb looks a bit different - it doesn't end in **-st** like the usual **du** form!
