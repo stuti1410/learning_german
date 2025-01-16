@@ -6,9 +6,9 @@
 | Psychologie ist schwer. | Psychology is difficult. |
 | Meine Tochter mag Psychologie. | My daughter likes Psychology. |
 | Was studiert dein Sohn? | What does your son study? |
-| Er studiert Psychologie und sie studiert Deutsch. |
+| Er studiert Psychologie und sie studiert Deutsch. | He studies Psychology and she studies German. |
 | Geschichte ist interessant. | History is interesting. |
-| Er studiert Gschichte und geht gern ins Museum. | He studies history and like to go to the museum. |
+| Er studiert Gschichte und geht gern ins Museum. | He studies history and likes to go to the museum. |
 | Mein Sohn ist achtzehn Jahre alt. | My son is 18 years old. |
 | Der Lehrer ist nur neunzehn Jahre alt. | The teacher is only 19 years old. |
 | Das Mädchen ist sieben Jahre alt. | The girl is 7 years old. |
