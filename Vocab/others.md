@@ -17,3 +17,4 @@
 | difficult | schwer |
 | baby | das Baby |
 | girl | das Mädchen |
+| child | das Kind |
