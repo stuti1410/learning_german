@@ -13,3 +13,5 @@
 | Der Lehrer ist nur neunzehn Jahre alt. | The teacher is only 19 years old. |
 | Das Mädchen ist sieben Jahre alt. | The girl is 7 years old. |
 | Wie alt ist das Kind? | How old is the child? |
+| Ist das Kind lustig? | Is the child funny? |
+| Das Kind ist fast acht Jahre alt. | The child is almost seven years old. |
