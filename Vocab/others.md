@@ -15,3 +15,5 @@
 | pill | tablette |
 | Psychology | Psychologie |
 | difficult | schwer |
+| baby | das Baby |
+| girl | das Mädchen |
