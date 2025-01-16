@@ -12,3 +12,4 @@
 | Oktober |	October |
 | November |	November |
 | Dezember |	December |
+| months | Monate |
