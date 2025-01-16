@@ -11,3 +11,5 @@
 | Er studiert Gschichte und geht gern ins Museum. | He studies history and like to go to the museum. |
 | Mein Sohn ist achtzehn Jahre alt. | My son is 18 years old. |
 | Der Lehrer ist nur neunzehn Jahre alt. | The teacher is only 19 years old. |
+| Das Mädchen ist sieben Jahre alt. | The girl is 7 years old. |
+| Wie alt ist das Kind? | How old is the child? |
