@@ -32,3 +32,14 @@
 | Wo arbeitet deine Tochter? | Where does your daughter work? |
 | Der Mann arbeitet in Zürich. | The man works in Zurich. |
 | Mein Bruder ist Deutscher und er arbeitet in Bonn. | My brother is German and he works in Bonn. |
+| Seine Freunde sind nett. | His friends are nice. |
+| Seine Mutter und sein Vater sind Amerikaner. | His mother and his father are American. |
+| Wie alt sind seine Eltern? | How old are his parents? |
+| Sind ihre Mitbewohner zu laut? | Are her roommates too loud? |
+| Ihre Freunde sind lustig und nett. | Her friends are funny and nice. |
+| Sind ihre Eltern jung oder alt? | Are her parents young or old? |
+| Wir sind Amerikaner. | We are Americans. |
+| Seine Mitbewohner sind Amerikaner. | His roommates are Americans. |
+| Oma und Opa, seid ihr Deutsche? | Grandma and grandpa, are you Germans? |
+| Sind ihre Eltern Amerikaner? | Are her parents Americans? |
+| Meine Mitbewohner sind Amerikaner. | My roommates are Americans. |
