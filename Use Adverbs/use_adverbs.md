@@ -49,3 +49,8 @@
 | Tom und Duo, seid ihr Studenten? | Tom and Duo, are you students? |
 | Mia ist Kanadierin und ihre Frau ist Deutsche. | Mia is Canadian and her wife is German. |
 | Ist dein Hund freundlich? | Is your dog friendly? |
+| Anna und Paul, wo lebt ihr? | Anna and Paul, where do you live? |
+| Wir leben in Toronto. | We live in Toronto. |
+| Meine Tochter lebt in Zürich. | My daughter lives in Zurich. |
+| Möchtest du in Paris oder Chicago leben? | Would you like to live in Paris or Chicago? |
+| Mein Vater is Kanadier und mein Opa ist Deutscher. | My father is Canadian and my grandpa is German. |
