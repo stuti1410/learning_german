@@ -7,3 +7,4 @@
 | happy | Glücklich |
 | healthy | Gesund |
 | toothache | Zahnschmerzen |
+| friendly | Freundlich |
