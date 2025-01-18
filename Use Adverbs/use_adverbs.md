@@ -43,3 +43,9 @@
 | Oma und Opa, seid ihr Deutsche? | Grandma and grandpa, are you Germans? |
 | Sind ihre Eltern Amerikaner? | Are her parents Americans? |
 | Meine Mitbewohner sind Amerikaner. | My roommates are Americans. |
+| Wir sind Kanadier. | We are Canadians. |
+| Sind deine Eltern Kanadier? | Are your parents Canadians? |
+| Wir sind Studenten. | We are students. |
+| Tom und Duo, seid ihr Studenten? | Tom and Duo, are you students? |
+| Mia ist Kanadierin und ihre Frau ist Deutsche. | Mia is Canadian and her wife is German. |
+| Ist dein Hund freundlich? | Is your dog friendly? |
