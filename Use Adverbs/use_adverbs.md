@@ -55,3 +55,4 @@
 | Möchtest du in Paris oder Chicago leben? | Would you like to live in Paris or Chicago? |
 | Mein Vater is Kanadier und mein Opa ist Deutscher. | My father is Canadian and my grandpa is German. |
 | Geschichte ist interessant. | History is interesting. |
+| Was studierst du? | What do you study? |
