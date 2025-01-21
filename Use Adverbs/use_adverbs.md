@@ -56,3 +56,7 @@
 | Mein Vater is Kanadier und mein Opa ist Deutscher. | My father is Canadian and my grandpa is German. |
 | Geschichte ist interessant. | History is interesting. |
 | Was studierst du? | What do you study? |
+| Die Studenten studieren Geschichte. | The students study history. |
+| Max und Isabella, lebt ihr in Berlin? | Max and Isabella, do you live in Berlin? |
+| Sind seine Eltern Kanadier oder Deutsche? | Are his parents Canadian or German? |
+| Peter und Martin, lebt ihr in Zürich? | Peter and Martin, do you live in Zurich? |
