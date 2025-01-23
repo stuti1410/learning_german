@@ -19,3 +19,4 @@
 | girl | das Mädchen |
 | child | das Kind |
 | almost | fast |
+| popular | beliebt |
