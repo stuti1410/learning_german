@@ -64,3 +64,4 @@
 | Das Baby ist so Suß. | The baby is so sweet. |
 | Das Baby ist fast zwanzig Monate alt. | The baby is almost twenty months old. |
 | Ich mag Psychologie, aber ich studiere Geschichte. | I like Psychology, but I study History. |
+| Ist dein Mitbewohner Kamadier? | Is your roommate Canadian? |
