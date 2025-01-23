@@ -66,3 +66,11 @@
 | Ich mag Psychologie, aber ich studiere Geschichte. | I like Psychology, but I study History. |
 | Ist dein Mitbewohner Kanadier? | Is your roommate Canadian? |
 | Ist deine Mutter Kanadierin? | Is your mother Canadian? |
+| Sie studieren Geschichte. | They study history. |
+
+> [!TIP]
+> In English, you can sa that you are **an** American, but in German, you just say **Ich bin Amerikaner.** No **ein** needed!<br>
+> - Ich bin **Deutsche**.<br>
+_I am a German._
+> - Wir sind **Amerikaner**.<br>
+_We are Americans._
