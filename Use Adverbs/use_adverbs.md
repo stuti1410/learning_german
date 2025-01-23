@@ -61,3 +61,4 @@
 | Sind seine Eltern Kanadier oder Deutsche? | Are his parents Canadian or German? |
 | Peter und Martin, lebt ihr in Zürich? | Peter and Martin, do you live in Zurich? |
 | Nina und Max, möchtet ihr kommen? | Nina and Max, would you like to come? |
+| Das Baby ist so Suß. | The baby is so sweet. |
