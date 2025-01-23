@@ -62,3 +62,5 @@
 | Peter und Martin, lebt ihr in Zürich? | Peter and Martin, do you live in Zurich? |
 | Nina und Max, möchtet ihr kommen? | Nina and Max, would you like to come? |
 | Das Baby ist so Suß. | The baby is so sweet. |
+| Das Baby ist fast zwanzig Monate alt. | The baby is almost twenty months old. |
+| Ich mag Psychologie, aber ich studiere Geschichte. | I like Psychology, but I study History. |
