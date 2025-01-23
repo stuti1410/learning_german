@@ -5,3 +5,4 @@
 | Coffee shop | das Café |
 | University | Universität |
 | Austria | Österreich |
+| Great Britain | Großbritannien |
