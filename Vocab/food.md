@@ -5,3 +5,5 @@
 | Pill | Tablette |
 | Ice cream | Eis |
 | sugar | Zucker |
+| fries | die Pommes |
+| taste | schmeken |
