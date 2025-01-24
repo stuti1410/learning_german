@@ -21,3 +21,4 @@
 | almost | fast |
 | popular | beliebt |
 | still | noch |
+| early | früh |
