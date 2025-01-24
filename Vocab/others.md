@@ -20,3 +20,4 @@
 | child | das Kind |
 | almost | fast |
 | popular | beliebt |
+| still | noch |
