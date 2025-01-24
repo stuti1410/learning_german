@@ -41,3 +41,6 @@
 | Herr Bär möchte zusammen Weißbier trinken. | Mr. Bear would lke to drink wheat beer together. |
 | Mein Partner möchte ein Bier bestellen. | My partner would like to order a beer. |
 | Meine Freundin möchte ein Wiesn-Herz kaufen. | My girlfriend would like to buy a heart cookie. |
+| Wo ist main Handy? | Where is my cellphone? |
+| Das Oktoberfest ist so laut, ich kann mein Handy nicht hören! | Oktoberfest is so loud, I cannot hear my cell phone! |
+| Die Band spielt Musik. | The band plays music. |
