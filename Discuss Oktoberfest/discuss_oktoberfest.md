@@ -53,3 +53,7 @@
 | Ja, sie schmechen sehr lecker! | Yes, they taste very delicious! |
 | Die Leute hören die Musik und sie tanzen. | The people hear the music and they dance. |
 | Hörst du mich? | Do you hear me? |
+| Ich muss jetzt gehen, bis morgen! | I have to go now, see you tomorrow! |
+| Wie spät ist es? | What time is it? |
+| Es ist schon dunkel, wie spät ist es? | It is already dark, what time is it? |
+| Hast du noch Zeit? | Do you still have time? |
