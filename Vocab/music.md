@@ -5,3 +5,4 @@
 | violin | Geige |
 | jazz | Jazz |
 | band | die Band |
+| instrument| Instrument |
