@@ -4,3 +4,4 @@
 | Music | die Musik |
 | Clock | die Uhr |
 | Ferris wheel | das Riesnrad |
+| people | die Leute |
