@@ -48,3 +48,8 @@
 | Ich höre die Band nicht. | I don't hear the band. |
 | Die Leute sind sehr laut. | The people are very loud. |
 | Die Pommes schmecken gut! | The fries taste good! |
+| Ich möchte eine Wurst mit Pommes, bitte. | I would like a sausage with fries, please. |
+| Magst du die Wurst und die Pommes? | Do you like the sausage and the fries? |
+| Ja, sie schmechen sehr lecker! | Yes, they taste very delicious! |
+| Die Leute hören die Musik und sie tanzen. | The people hear the music and they dance. |
+| Hörst du mich? | Do you hear me? |
