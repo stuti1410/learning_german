@@ -6,4 +6,5 @@
 | Ice cream | Eis |
 | sugar | Zucker |
 | fries | die Pommes |
-| taste | schmeken |
+| taste | schmecken |
+| sausage | die Wurst |
