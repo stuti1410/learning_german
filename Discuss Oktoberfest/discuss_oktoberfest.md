@@ -35,3 +35,9 @@
 | Kannst du uns sehen? | Can you see us? |
 | Ich kann dich nicht sehen, wo bist du? | I can't see you, where are you? |
 | Ich mag das Riesenrad nicht. | I don't like the Ferris wheel. |
+| Das Wiesn-Herz ist für mich! | The heart cookie is for me. |
+| Vielen Dank für das Wiesn-Herz! | Thank you very much for the heart cookie. |
+| Ich will kein Weißbier trinken. | I don't want to drink wheat beer. |
+| Herr Bär möchte zusammen Weißbier trinken. | Mr. Bear would lke to drink wheat beer together. |
+| Mein Partner möchte ein Bier bestellen. | My partner would like to order a beer. |
+| Meine Freundin möchte ein Wiesn-Herz kaufen. | My girlfriend would like to buy a heart cookie. |
