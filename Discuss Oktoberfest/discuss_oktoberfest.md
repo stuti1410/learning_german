@@ -57,3 +57,5 @@
 | Wie spät ist es? | What time is it? |
 | Es ist schon dunkel, wie spät ist es? | It is already dark, what time is it? |
 | Hast du noch Zeit? | Do you still have time? |
+| Ich kann nicht bleiben, gute Nacht. | I can't stay, good night. |
+| Es ist nur acht Uhr, das ist früh! | It is only eight o'clock, that is early! |
