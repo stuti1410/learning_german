@@ -44,3 +44,6 @@
 | Wo ist main Handy? | Where is my cellphone? |
 | Das Oktoberfest ist so laut, ich kann mein Handy nicht hören! | Oktoberfest is so loud, I cannot hear my cell phone! |
 | Die Band spielt Musik. | The band plays music. |
+| Die Band spielt gut. Die Musik ist laut, aber schön! | The band is playing well. The music is loud, but beautiful! |
+| Ich höre die Band nicht. | I don't hear the band. |
+| Die Laute sind sehr laut. | The people are very loud. |
