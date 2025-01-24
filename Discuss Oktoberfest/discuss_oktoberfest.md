@@ -46,4 +46,5 @@
 | Die Band spielt Musik. | The band plays music. |
 | Die Band spielt gut. Die Musik ist laut, aber schön! | The band is playing well. The music is loud, but beautiful! |
 | Ich höre die Band nicht. | I don't hear the band. |
-| Die Laute sind sehr laut. | The people are very loud. |
+| Die Leute sind sehr laut. | The people are very loud. |
+| Die Pommes schmecken gut! | The fries taste good! |
