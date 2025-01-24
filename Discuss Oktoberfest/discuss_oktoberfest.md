@@ -59,3 +59,7 @@
 | Hast du noch Zeit? | Do you still have time? |
 | Ich kann nicht bleiben, gute Nacht. | I can't stay, good night. |
 | Es ist nur acht Uhr, das ist früh! | It is only eight o'clock, that is early! |
+| Es ist noch früh und die Musik ist gut. Ich möchte tanzen! | It is still early and the music is good. I would like to dance. |
+| Es ist Viertel vor acht. | It is quarter till eight. |
+| Es ist schon Viertel vor neun. Die Musik beginnt in fünfzehn Minuten. | It is already quarter till nine. The music starts in fifteen minutes. |
+| Lernt dein Freund oder geht er heute schwimmen? | Is your boyfriend studying or is he going swimming today? |
