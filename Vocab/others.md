@@ -22,3 +22,4 @@
 | popular | beliebt |
 | still | noch |
 | early | früh |
+| repeat | wiederholen |
