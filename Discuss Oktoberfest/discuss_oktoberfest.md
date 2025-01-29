@@ -12,7 +12,7 @@
 | Mia und Kurt, wollt ihr zum Oktoberfest gehen? | Mia and Kurt, do you want to go to Oktoberfest? |
 | Die Amerikaner liebt das Oktoberfest. | The Americans love Oktoberfest. |
 | Das Oktoberfest macht Spaß und es ist sehr beliebt. | Oktoberfest is fun and it is very popular. |
-| Wir lieben das Oktoberfest un München. | We love Oktoberfest and Munich. |
+| Wir lieben das Oktoberfest und München. | We love Oktoberfest and Munich. |
 | Ja, das Oktoberfest macht Spaß. | yes, Oktoberfest is fun. |
 | Das Oktoberfest ist sehr beliebt. | Oktoberfest is very popular. |
 | Wann beginnt der Film? | When does the movie begin? |
@@ -63,3 +63,9 @@
 | Es ist Viertel vor acht. | It is quarter till eight. |
 | Es ist schon Viertel vor neun. Die Musik beginnt in fünfzehn Minuten. | It is already quarter till nine. The music starts in fifteen minutes. |
 | Lernt dein Freund oder geht er heute schwimmen? | Is your boyfriend studying or is he going swimming today? |
+| Oh, das Spiel endet um acht Uhr. | Oh, the game ends at eight o'clock. |
+| Wir lieben das Oktoberfest. Es ist toll! | We love Oktoberfest. It is great! |
+| Wir wollen zusammen feiern! | We want to celebrate together! |
+| Die Party macht Spaß. | The party is fun. |
+| Eine Fahrkarte mach München kostet achtezehn euro. Wir gehen am achtzehnten September zum Oktoberfest. | A ticket to Munich costs eighteen euros. We are going to Oktoberfest by eighteenth of September. |
+| Das Oktoberfest beginnt am neunzehnten September. | Oktoberfest begins on the nineteenth of September. |
