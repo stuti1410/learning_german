@@ -74,3 +74,19 @@
 | Kannst du uns sehen? | Can you see us? |
 | Ich trinke kein weißbier, und du? | I don't drink wheat beer, and you? |
 | Ich bin traurig, ich habe kein Handy mehr. | I an sad, I don't have a cellphone anymore. |
+| Es ist Viertel vor sieben. Ich muss noch ins Kaufhaus gehen. | It is quarter to seven. I still have to go to the department store. |
+| Ich muss noch lernen. Wie spät ist es? | I still have to study. What time is it? |
+| Ich muss gehen, gute Nacht. | I have to go, good night. |
+| Es ist noch früh. | It is still early. |
+| Ist es noch früh? | Is it still early? |
+| Das Oktoberfest ist in München. | Oktoberfest is in Munich. |
+| Wir gehen in September zum Oktoberfest. | We are going to Oktoberfest in September. |
+
+> [!TIP]
+> When you have a two-verb sentence, then the **nicht** goes before the second verb.
+
+> Nein, ich möchte **nicht** zahlen.<br>
+_No, I wouldn't like to pay._
+
+> Er kann mich **nicht** sehen.<br>
+_He can't see me._
