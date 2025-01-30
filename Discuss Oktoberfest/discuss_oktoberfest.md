@@ -69,3 +69,8 @@
 | Die Party macht Spaß. | The party is fun. |
 | Eine Fahrkarte mach München kostet achtezehn euro. Wir gehen am achtzehnten September zum Oktoberfest. | A ticket to Munich costs eighteen euros. We are going to Oktoberfest by eighteenth of September. |
 | Das Oktoberfest beginnt am neunzehnten September. | Oktoberfest begins on the nineteenth of September. |
+| Du kannst das Riesenrad sehen. Es ist worklich groß. | You can see the Ferris wheel. It is really big. |
+| Das Schnitzel schmeckt sehr gut. Es ist wirklich lecker. | The schnitzel tastes very good. It is really delicious. |
+| Kannst du uns sehen? | Can you see us? |
+| Ich trinke kein weißbier, und du? | I don't drink wheat beer, and you? |
+| Ich bin traurig, ich habe kein Handy mehr. | I an sad, I don't have a cellphone anymore. |
