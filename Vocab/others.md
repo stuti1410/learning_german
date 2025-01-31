@@ -23,3 +23,4 @@
 | still | noch |
 | early | früh |
 | repeat | wiederholen |
+| in the evenings | abends |
