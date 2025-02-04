@@ -24,3 +24,4 @@
 | early | früh |
 | repeat | wiederholen |
 | in the evenings | abends |
+| cancel | stornieren |
