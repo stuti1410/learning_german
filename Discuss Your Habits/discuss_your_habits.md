@@ -12,3 +12,4 @@
 | Meine Eltern gehen einmal pro Woche tanzen. | My parents go dancing once per week. |
 | Ich mache abends Sport. | I exercise in the evenings. |
 | Machst du gern Sport? | Do you like to do exercise? |
+| Frau Graf, ist Ihr Termin um siebzehn Uhr? | Ms. Graf, is your appointment at 5 o'clock? |
