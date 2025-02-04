@@ -13,3 +13,5 @@
 | Ich mache abends Sport. | I exercise in the evenings. |
 | Machst du gern Sport? | Do you like to do exercise? |
 | Frau Graf, ist Ihr Termin um siebzehn Uhr? | Ms. Graf, is your appointment at 5 o'clock? |
+| Ihre Freunde sind lustig und nett. | Her friends are funny and nice. |
+| Trink heute keinen Kaffee, Mark. | Don't drink coffee today, Mark. |
