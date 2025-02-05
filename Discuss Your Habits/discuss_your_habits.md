@@ -34,3 +34,10 @@
 | Isst du Müsli mit Joghurt? | Do you eat muesli with yoghurt? |
 | Du isst Müsli zum Frühstück und ich esse ein Ei. | You eat muesli for breakfast and I eat an egg. |
 | Mein Hund isst manchmal ein Ei zum Frühstück. | My dog sometimes eats an egg for breakfast. |
+| Ich schwimme morgens. | I swim in the mornings. |
+| Was isst du morgens? Oder frühstückst du nicht? | What do you eat in the morning? Or don't you eat breakfast? |
+| Isst du gern Joghurt? | Do you like to eat yoghurt? |
+| Was machst du morgens? | What do you do in the morning? |
+| Ich esse eine banane jeden Tag. | I eat a banana every day. |
+| Isst du gern Müsli? | Do you like to eat muesli? |
+| Was isst du gern? | What do you like to eat? |
