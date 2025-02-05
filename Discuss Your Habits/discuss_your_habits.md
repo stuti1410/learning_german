@@ -15,3 +15,22 @@
 | Frau Graf, ist Ihr Termin um siebzehn Uhr? | Ms. Graf, is your appointment at 5 o'clock? |
 | Ihre Freunde sind lustig und nett. | Her friends are funny and nice. |
 | Trink heute keinen Kaffee, Mark. | Don't drink coffee today, Mark. |
+| Wie oft machst du Yoga? | How often do you do yoga? |
+| Ich mache abends Yoga. Es ist sehr gesund und ich kann immer gut schlafen. | I do yoga in the evening. It's very healthy and I can always sleep well. |
+| Ich gehe abends im Park joggen. | I go jogging in the park in the evenings. |
+| Meine Eltern hehen einmal pro Woche tanzen. | My parents go dancing once per week. |
+| Wie oft machst du Sport? | How often do you exercise? |
+| Ich gehe einmal pro Woche wandern. | I go hiking once per week. |
+| Ich mache einmal pro Tag Sport. | I exercise once per day. |
+| Herr Graf, Sie müssen abends Sport machen. | Mr. Graf you have to exercise in the evenings. |
+| Wie oft joggst du? | How often do you jog? |
+| Joggst du abends? | Do you jog in the evenings? |
+| Wie oft schwimmst du? | How often do you swim? |
+| Ich mache abends Sport. | I exercise in the evenings. |
+| Die Maus isst immer Käse zum frühstück. | The mouse always eats cheese for breakfast. |
+| Zum Frühstück esse ich gern Joghurt mit Banane. Es ist einfach und lecker. | I like to eat yogurt with banana for breakfast. It's easy and delicious. |
+| Ich esse einmal pro Woche eine Banane. | I eat a banana once per week. |
+| Ich esse eine banane zum Frühstück. | I eat a banana for breakfast. |
+| Isst du Müsli mit Joghurt? | Do you eat muesli with yoghurt? |
+| Du isst Müsli zum Frühstück und ich esse ein Ei. | You eat muesli for breakfast and I eat an egg. |
+| Mein Hund isst manchmal ein Ei zum Frühstück. | My dog sometimes eats an egg for breakfast. |
