@@ -3,7 +3,7 @@
 | tired | müde |
 | headache | Kopfschmerzen |
 | sad | Trairig |
-| stomachache | Brauchschmerzen |
+| stomachache | Bauchschmerzen |
 | happy | Glücklich |
 | healthy | Gesund |
 | toothache | Zahnschmerzen |
