@@ -8,3 +8,4 @@
 | fries | die Pommes |
 | taste | schmecken |
 | sausage | die Wurst |
+| rolls | Brötchen |
