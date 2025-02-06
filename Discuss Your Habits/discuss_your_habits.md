@@ -50,3 +50,5 @@
 | Er trifft seine Eltern morgen im Restaurant. | He is meeting his parents tomorrow at the restaurant. |
 | Sie trifft ihre Freunde jeden Donnerstag. | She meets her friends every Thursday. |
 | Ich treffe meinen Freund am Donnerstag. | I am meeting my boyfriend on Thursday. |
+| Ich treffe meine Chefin im Büro. | I am meeting my boss at the office. |
+| Wir oft trifft du deine Kollegen? | How often do you meet your colleagues? |
