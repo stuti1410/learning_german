@@ -41,3 +41,12 @@
 | Ich esse eine banane jeden Tag. | I eat a banana every day. |
 | Isst du gern Müsli? | Do you like to eat muesli? |
 | Was isst du gern? | What do you like to eat? |
+| Sie trifft nie ihre Freunde. | She never meets her friends. |
+| Ich treffe meine Freunde jede Woche. Wie oft triffst du deine Freunde? | I meet my friends every week. How often do you meet your friends? |
+| Am Donnerstag um zwölf Uhr trifft Simon seine Freundin im Park. Sie machen zusammen ein Picknick. | On Thursday at twelve o'clock Simon meets his girlfriend in the park. They go on a picnic together. |
+| Triffst du deine Eltern jede Woche? | Do you meet your parents every week? |
+| Sie trifft ihre Oma jede Woche. | She meets her grandma every week. |
+| Ich treffe meinen Vater am Donnerstag im Cafe. | I am meeting my father on Thursday at the coffee shop. |
+| Er trifft seine Eltern morgen im Restaurant. | He is meeting his parents tomorrow at the restaurant. |
+| Sie trifft ihre Freunde jeden Donnerstag. | She meets her friends every Thursday. |
+| Ich treffe meinen Freund am Donnerstag. | I am meeting my boyfriend on Thursday. |
