@@ -6,3 +6,4 @@
 | University | Universität |
 | Austria | Österreich |
 | Great Britain | Großbritannien |
+| office | Büro |
