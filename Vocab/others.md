@@ -26,3 +26,4 @@
 | in the evenings | abends |
 | cancel | stornieren |
 | attention| achtung |
+| meet | treffen |
