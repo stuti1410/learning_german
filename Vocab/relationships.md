@@ -8,3 +8,4 @@
 | baby | das Baby |
 | child | Kind |
 | roommate | Mitbewohner / Mitbewohnerin |
+| boss | Chefin |
