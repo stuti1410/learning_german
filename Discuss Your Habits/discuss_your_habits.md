@@ -52,3 +52,11 @@
 | Ich treffe meinen Freund am Donnerstag. | I am meeting my boyfriend on Thursday. |
 | Ich treffe meine Chefin im Büro. | I am meeting my boss at the office. |
 | Wir oft trifft du deine Kollegen? | How often do you meet your colleagues? |
+| Ich esse immer ein Brötchen mit Käse, aber der Chef frühstückt nie. | I always eat a roll with cheese, but the boss never eats breakfast. |
+| Sie isst ein Brötchen mit Käse. | She eats a roll with cheese. |
+| Ist das Schinken? Ich esse kein Fleisch. | Is that ham? I don't eat meat. |
+| Max, isst du eine Suppe zum Mittagessen? Ich esse eine Pizza mit Schinken. | Max, are you having soup for lunch? I eat a pizza with ham. |
+| Triffst du deinen Chef jeden Mittwooch? | Do you meet your boss every Wednesday? |
+| Sie isst ein Brötchen mit Schinken zum Mittagessen. | She eats a roll with ham for lunch. |
+| Du isst ein Brötchen mit Schinken und ich esse eine Pizza. | You eat a roll with ham and I eat a pizza. |
+| Ich treffe meine Chefin zum Mittagessen. | I meet my boss for lunch. |
