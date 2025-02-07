@@ -60,3 +60,4 @@
 | Sie isst ein Brötchen mit Schinken zum Mittagessen. | She eats a roll with ham for lunch. |
 | Du isst ein Brötchen mit Schinken und ich esse eine Pizza. | You eat a roll with ham and I eat a pizza. |
 | Ich treffe meine Chefin zum Mittagessen. | I meet my boss for lunch. |
+| Hänchen mit Kartoffeln und Salat schmeckt gut! | Chicken with potato and salad tastes good! |
