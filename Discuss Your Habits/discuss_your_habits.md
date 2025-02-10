@@ -74,3 +74,16 @@
 | Anna geht einmal pro Woche schwimmen. | Anna goes swimming once per week. |
 | Ich mache Sport einmal pro Tag. | I exercise once per day. |
 | Ich esse einmal pro Woche eine Banane. | I eat a banana once per week. |
+| Sie trifft ihre Kollegen im Büro. | She meets her colleagues at the office. |
+| Ich treffe meinen Vater am Donnerstag im Cafe. | I am meeting my father on Thursday at the coffee shop. |
+| Ich bin müde, ich brauche eine tasse Kaffee. | I am tired, I need a cup of coffee. |
+| Triffst du deine Freunde lieber zu Hause? | Do you prefer to meet your friends at home? |
+| Mein chef trinkt heute Nachmittag eine Tasse Kaffee. | My boss is drinking a cup of coffee this afternoon. |
+| Ich treffe meine Freunde jede Woche. Wie oft triffst du deine Freunde? | I meet my friends every week. How often do you meet your friends? |
+| Triffst du deine Eltern jede Woche? | Do you meet your parents every week? |
+| Ich esse einen Salat zum Mittagessen. Was isst du? | I eat salad for lunch. What do you eat? |
+| Max, isst du eine Suppe zum Mittagessen? Ich esse eine Pizza mit Schinken. | Max, are you having soup for lunch? I eat a pizza with ham. |
+| Ein Brötchen mit Schinken schmeckt gut. | A roll with ham tastes good! |
+| Isst du gern ein Brötchen mit Schinken? | Do you like to eat a roll with ham? |
+| Ich treffe meinen Chef zum Mittagessen. | I meet my boss for lunch. |
+| Triffst du deinen Chef oft im Büro? | Do you often meet your boss at the office? |
