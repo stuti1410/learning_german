@@ -101,3 +101,14 @@
 | Ich treffe meine Eltern zum Abendessen sonntags. | I meet my parents on Sundays for dinner. |
 | Er isst Hähnchen mit reis. | He eats chicken with rice. |
 | Ich treffe meine Freunde sonntags im Cafe. | I meet my friends on Sundays at the Coffee shop. |
+
+> [!TIP]
+> Some verbs change their vowel before adding the ending. Luckily, this only happens in the **du** and **er** / **sie** / **es** forms!
+
+> | **subject** | **verb (essen)** |
+> |-------------|------------------|
+> | ich | esse |
+> | du | isst |
+> | er / sie / es | isst |
+
+> The verb stem **e**ss changes to **i**ss for the **du** and **er** / **sie** / **es** form, and only for those forms.
