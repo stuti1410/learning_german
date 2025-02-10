@@ -87,3 +87,17 @@
 | Isst du gern ein Brötchen mit Schinken? | Do you like to eat a roll with ham? |
 | Ich treffe meinen Chef zum Mittagessen. | I meet my boss for lunch. |
 | Triffst du deinen Chef oft im Büro? | Do you often meet your boss at the office? |
+| Was isst du zum Abendessen? | What do you eat for dinner? |
+| Ich treffe meine Oma and meinen Opa sonntags. | I meet my grandma and my grandpa on Sundays. |
+| Mark isst gern italienisch, aber heute Abend schmecken die Nudeln nicht gut! | Mark likes to eat Ialian food, but this evening the noodles don't taste good! |
+| Meine Tante trifft ihre Freundinnen freitags. | My aunt meets her friends on Fridays. |
+| Mein Vater trifft meinen Opa freitags. | My father meets my grandpa on Fridays. |
+| Hähnchen mit Kartoffeln und Salat schmeckt gut! | Chicken with potatoes and salad tastes good! |
+| Ich esse oft nudeln mit Fisch zum Abendessen. | I often eat noodles with fish for dinner. |
+| Mein Partner trifft seine Freunde freitags. | My partner meets his friends on Fridays. |
+| Sie isst gern reis mit Käse. | She likes to eat rice with cheese. |
+| Ich treffe meine Freundinnen sonntags. | I meet my friends on Sundays. |
+| Isst du jede Woche reis? | Do you eat rice every week? |
+| Ich treffe meine Eltern zum Abendessen sonntags. | I meet my parents on Sundays for dinner. |
+| Er isst Hähnchen mit reis. | He eats chicken with rice. |
+| Ich treffe meine Freunde sonntags im Cafe. | I meet my friends on Sundays at the Coffee shop. |
