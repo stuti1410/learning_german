@@ -61,3 +61,16 @@
 | Du isst ein Brötchen mit Schinken und ich esse eine Pizza. | You eat a roll with ham and I eat a pizza. |
 | Ich treffe meine Chefin zum Mittagessen. | I meet my boss for lunch. |
 | Hänchen mit Kartoffeln und Salat schmeckt gut! | Chicken with potato and salad tastes good! |
+| Wie oft machen Sie Sport, Frau Schmidt? | How often do you exercise, Ms. Schmidt? |
+| Yoga macht Spaß. | Yoga is fun. |
+| Ich esse morgens und abends eine Banane. | I eat a banana in the morning and in the evening. |
+| Ich esse nicht gern joghurt. | I don't like to est yogurt. |
+| Ich esse morgens zwei Orangen. Was isst du? | I eat two oranges in the morning. What do you eat? |
+| Isst du eine Banane zum Frühstück? | Do you eat a banana for breakfast? |
+| Ich bin müde, ich will keinen sport machen. | I am tired, I don't want to exercise. |
+| Isst du Müsli mit Joghurt? | Do you eat muesli with yogurt? |
+| Wie oft machst du Yoga? | How often do you do yoga? |
+| Max isst gern Müsli mit Milch zum Frühstück. | Max likes to eat muesli with milk for breakfast. |
+| Anna geht einmal pro Woche schwimmen. | Anna goes swimming once per week. |
+| Ich mache Sport einmal pro Tag. | I exercise once per day. |
+| Ich esse einmal pro Woche eine Banane. | I eat a banana once per week. |
