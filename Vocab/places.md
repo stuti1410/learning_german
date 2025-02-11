@@ -10,3 +10,4 @@
 | garden | der Garten |
 | stairs | die Treppe |
 | apartment building | Mehrfamilienhaus |
+| shared apartment | WG |
