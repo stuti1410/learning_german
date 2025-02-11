@@ -8,3 +8,4 @@
 | Great Britain | Großbritannien |
 | office | Büro |
 | garden | der Garten |
+| stairs | die Treppe |
