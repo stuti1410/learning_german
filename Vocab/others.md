@@ -27,3 +27,4 @@
 | cancel | stornieren |
 | attention| achtung |
 | meet | treffen |
+| currently | zurzeit |
