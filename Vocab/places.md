@@ -9,3 +9,4 @@
 | office | Büro |
 | garden | der Garten |
 | stairs | die Treppe |
+| apartment building | Mehrfamilienhaus |
