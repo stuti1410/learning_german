@@ -7,3 +7,4 @@
 | Austria | Österreich |
 | Great Britain | Großbritannien |
 | office | Büro |
+| garden | der Garten |
