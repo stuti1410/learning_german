@@ -28,3 +28,4 @@
 | attention| achtung |
 | meet | treffen |
 | currently | zurzeit |
+| alone | allein |
