@@ -59,3 +59,6 @@
 | Die Bettdecke ist warm. | The bedspread is warm. |
 | Ist dein Bett zu weich? | Is your bed too soft? |
 | Mein Bett ist zu weich und ich kann nicht schlafen. | My bed is too soft and I can't sleep. |
+| Meine Frau liebt das Bild. | My wife loves the painting. |
+| Magst du das Bild im Schlafzimmer? | Do you like the painting in the bedroom? |
+| Meine Pflanzen lieben Wasser. | My plants love water. |
