@@ -34,3 +34,6 @@
 | Ich brauche einen Teppich für das Wohnzimmer. | I need a carpet for the living room. |
 | Brauchst du ein Sofa für das Wohnzimmer? | Do you need a sofa for the living room? |
 | Du hast eine Lampe, aber hast du einen Kaffeetisch? | You have a lamp but do you have a coffee table? |
+| Ich mag meinen Mitbewohner, aber er ist nicht gut für meinen Kaffeetisch! | I like my roommate, but he's not good for my coffee table! |
+| Hast du schon einen Kaffeetisch? | Do you already have a coffee table? |
+| Magst du die Blumen? | Do you like flowers? |
