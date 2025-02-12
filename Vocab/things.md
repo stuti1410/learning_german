@@ -14,3 +14,4 @@
 | bedspread | Bettdecke |
 | painting | das Bild |
 | plants | Pflanzen |
+| pillow | Kopfkissen |
