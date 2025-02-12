@@ -62,3 +62,5 @@
 | Meine Frau liebt das Bild. | My wife loves the painting. |
 | Magst du das Bild im Schlafzimmer? | Do you like the painting in the bedroom? |
 | Meine Pflanzen lieben Wasser. | My plants love water. |
+| Meine Pflanzen essen gern Fleisch, ist das schlecht? | My plants like to eat meat, is that bad? |
+| Magst du mein Wohnzimmer? | Do you like my living room? |
