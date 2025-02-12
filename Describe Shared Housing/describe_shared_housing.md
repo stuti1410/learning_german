@@ -64,3 +64,6 @@
 | Meine Pflanzen lieben Wasser. | My plants love water. |
 | Meine Pflanzen essen gern Fleisch, ist das schlecht? | My plants like to eat meat, is that bad? |
 | Magst du mein Wohnzimmer? | Do you like my living room? |
+| Wir haben nur ein Kopfkissen. | We have only one pillow. |
+| Wir müssen heute zu Hause bleiben. | We have to stay at home today. |
+| Wir müssen ein Bett und eine Bettdecke kaufen. | We have to buy a bed and a bedspread. |
