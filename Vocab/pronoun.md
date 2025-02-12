@@ -6,3 +6,4 @@
 | you | dich |
 | he | Er |
 | she | sie |
+| his | sein |
