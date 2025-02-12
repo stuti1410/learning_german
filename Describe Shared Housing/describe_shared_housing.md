@@ -32,3 +32,5 @@
 | Hast du viele Bücher zu Hause? | Do you have many books at home? |
 | Wie viel kostet das Regal? | How much does the shelf cost? |
 | Ich brauche einen Teppich für das Wohnzimmer. | I need a carpet for the living room. |
+| Brauchst du ein Sofa für das Wohnzimmer? | Do you need a sofa for the living room? |
+| Du hast eine Lampe, aber hast du einen Kaffeetisch? | You have a lamp but do you have a coffee table? |
