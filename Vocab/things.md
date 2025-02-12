@@ -8,3 +8,4 @@
 | table | Tisch |
 | coffee table | Kaffeetisch |
 | flowers | die Blumen |
+| refridgerator | der Kühlschrank |
