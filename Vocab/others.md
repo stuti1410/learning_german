@@ -29,3 +29,4 @@
 | meet | treffen |
 | currently | zurzeit |
 | alone | allein |
+| quiet | leise |
