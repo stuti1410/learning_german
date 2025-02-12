@@ -51,3 +51,8 @@
 | Wir haben keine Mikrowelle. | We don't have a microwave. |
 | Meine Pizza ist kalt, wo ist die Mikrowelle? | My pizza is cold, where is the microwave? |
 | Wir essen nie im Wohnzimmer. | We never eat in the living room. |
+| Wir machen keine Party, die Wohnung ist schmutzig! | We aren't having a party, the apartment is dirty. |
+| Meine Küche ist nie schmutzig. | My kitchen is never dirty. |
+| Warum essen wir nie im Esszimmer? | Why we never eat in the dining room? |
+| Iss nicht im Wohnzimmer, das Sofa ist so schmutzig. | Don't eat in the living room, the sofa is so dirty. |
+| Die Blumen sind schön und rot. | The flowers are beautiful and red. |
