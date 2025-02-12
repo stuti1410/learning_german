@@ -10,3 +10,4 @@
 | roommate | Mitbewohner / Mitbewohnerin |
 | boss | Chefin |
 | colleagues | Kollegen |
+| neighbor | die Nachberin |
