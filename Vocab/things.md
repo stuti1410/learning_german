@@ -7,3 +7,4 @@
 | carpet | Teppich |
 | table | Tisch |
 | coffee table | Kaffeetisch |
+| flowers | die Blumen |
