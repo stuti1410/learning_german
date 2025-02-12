@@ -58,3 +58,4 @@
 | Die Blumen sind schön und rot. | The flowers are beautiful and red. |
 | Die Bettdecke ist warm. | The bedspread is warm. |
 | Ist dein Bett zu weich? | Is your bed too soft? |
+| Mein Bett ist zu weich und ich kann nicht schlafen. | My bed is too soft and I can't sleep. |
