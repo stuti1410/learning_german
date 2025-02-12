@@ -13,3 +13,4 @@
 | microwave | Mikrowelle |
 | bedspread | Bettdecke |
 | painting | das Bild |
+| plants | Pflanzen |
