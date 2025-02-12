@@ -2,3 +2,4 @@
 |--------|---------|
 | weiß | white |
 | rot | red |
+| schwarz | black |
