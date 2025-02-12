@@ -44,3 +44,4 @@
 | Wo ist die Küche? | Where is the kitchen? |
 | Ich mag den Kühlschrank nicht. | I don't like the refrigerator. |
 | Ich habe hunger, aber es gibt kein Essen im Kühlschrank. | I'm hungry, but there isn't any food in the refrigerator. |
+| Wir haben kein Esszimmer. | We don't have a dining room. |
