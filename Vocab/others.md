@@ -30,3 +30,4 @@
 | currently | zurzeit |
 | alone | allein |
 | quiet | leise |
+| dirty | schmutzig |
