@@ -57,3 +57,4 @@
 | Iss nicht im Wohnzimmer, das Sofa ist so schmutzig. | Don't eat in the living room, the sofa is so dirty. |
 | Die Blumen sind schön und rot. | The flowers are beautiful and red. |
 | Die Bettdecke ist warm. | The bedspread is warm. |
+| Ist dein Bett zu weich? | Is your bed too soft? |
