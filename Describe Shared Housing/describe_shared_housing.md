@@ -16,3 +16,6 @@
 | Ich mag die Nachbarin. | I like the neighbor. |
 | Kommt deine Nachbarin aur Frankreich? | Is your neighbor from France? |
 | Nein, sie kommt aus Russland. | No, she comes from Russia. |
+| Es ist nachts leise hier. | It is quiet at night here. |
+| Meine Katze ist nachts wirklich leise. | My cat is really quiet at night. |
+| Ist deine Nachbarin Deutsche? | Is your neighbor German? |
