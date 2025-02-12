@@ -31,3 +31,4 @@
 | alone | allein |
 | quiet | leise |
 | dirty | schmutzig |
+| soft | weich |
