@@ -5,3 +5,5 @@
 | sofa | das Sofa |
 | shelf | das Regal |
 | carpet | Teppich |
+| table | Tisch |
+| coffee table | Kaffeetisch |
