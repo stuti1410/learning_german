@@ -10,3 +10,4 @@
 | flowers | die Blumen |
 | refrigerator | der Kühlschrank |
 | chairs | Stühle |
+| microwave | Mikrowelle |
