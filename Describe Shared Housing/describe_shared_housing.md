@@ -42,3 +42,5 @@
 | Meine frau ist professorin, sie hat zu viele Bücher. |  My wife is a professor, she has too many books. |
 | Hast du schon ein Sofa für das Wohnzimmer? | Do you already have a sofa for the living room? |
 | Wo ist die Küche? | Where is the kitchen? |
+| Ich mag den Kühlschrank nicht. | I don't like the refrigerator. |
+| Ich habe hunger, aber es gibt kein Essen im Kühlschrank. | I'm hungry, but there isn't any food in the refrigerator. |
