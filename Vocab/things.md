@@ -12,3 +12,4 @@
 | chairs | Stühle |
 | microwave | Mikrowelle |
 | bedspread | Bettdecke |
+| painting | das Bild |
