@@ -4,3 +4,4 @@
 | vase | die Vase |
 | sofa | das Sofa |
 | shelf | das Regal |
+| carpet | Teppich |
