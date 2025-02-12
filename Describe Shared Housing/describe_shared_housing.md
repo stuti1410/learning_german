@@ -28,3 +28,4 @@
 | Unsere Katze ist schwarz und weiß. | Our cat is black and white. |
 | Unser Nachbar sucht zurzeit eine Wohnung. | Our neighbor is currently looking for an apartment. |
 | Unsere Nachbarin ist nett und sie hat eine Katze. | Our neighbor is nice and she has a cat. |
+| Mein Sofa ist sehr bequem. | My sofa is very comfortable. |
