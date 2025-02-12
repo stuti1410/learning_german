@@ -36,4 +36,8 @@
 | Du hast eine Lampe, aber hast du einen Kaffeetisch? | You have a lamp but do you have a coffee table? |
 | Ich mag meinen Mitbewohner, aber er ist nicht gut für meinen Kaffeetisch! | I like my roommate, but he's not good for my coffee table! |
 | Hast du schon einen Kaffeetisch? | Do you already have a coffee table? |
-| Magst du die Blumen? | Do you like flowers? |
+| Magst du die Blumen? | Do you like the flowers? |
+| Die Blumen sind für dich! | The flowers are for you! |
+| Brauchen wir ein regal für das Wohnzimmer? | Do we need a shelf for the living room? |
+| Meine frau ist professorin, sie hat zu viele Bücher. |  My wife is a professor, she has too many books. |
+| Hast du schon ein Sofa für das Wohnzimmer? | Do you already have a sofa for the living room? |
