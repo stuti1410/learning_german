@@ -1,7 +1,7 @@
 | German | English |
 |--------|---------|
 | Habt ihr einen Garten, Paul und Lisa? | Do you have a garden, Paul and Lisa? |
-| WO ist die Treppe? | Where are the stairs? |
+| Wo ist die Treppe? | Where are the stairs? |
 | Nina mag die Treppe nicht. Sie möchte einen Aufzug. | Nina doesn't like the staircase. She would like an elevator. |
 | Hast du zurzeit Mitbewohner? | Do you have roommates currently? |
 | Ich bin allein und das ist OK. | I am alone and that is OK. |
@@ -21,3 +21,5 @@
 | Ist deine Nachbarin Deutsche? | Is your neighbor German? |
 | Die Eule ist unser Freund. | The owl is our friend. |
 | Der Nachbar ist nie zu Hause. | The neighbor is never at home. |
+| Unser Nachbar ist Student. Er lernt oft und ist sehr leise. | Our neighbor is student. He studies often and is very quiet. |
+| Meine Katze ist schwarz und liebt Orangen. | My cat is black and loves oranges. |
