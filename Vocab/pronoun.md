@@ -1,6 +1,6 @@
 | English | German |
 |---------|--------|
-| our | unser |
+| our | unser / unsere |
 | I | ich |
 | me | mich |
 | you | dich |
