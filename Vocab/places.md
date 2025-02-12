@@ -14,3 +14,4 @@
 | living room | Wohnzimmer |
 | bedroom | Schlafzimmer |
 | kitchen | die Küche |
+| dining room | Esszimmer |
