@@ -4,3 +4,4 @@
 | Psychology | Psychologie |
 | German | Deutsch |
 | Maths | Mathe |
+| bookshelf | Bücherregal |
