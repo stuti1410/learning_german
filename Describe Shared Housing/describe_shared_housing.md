@@ -19,3 +19,5 @@
 | Es ist nachts leise hier. | It is quiet at night here. |
 | Meine Katze ist nachts wirklich leise. | My cat is really quiet at night. |
 | Ist deine Nachbarin Deutsche? | Is your neighbor German? |
+| Die Eule ist unser Freund. | The owl is our friend. |
+| Der Nachbar ist nie zu Hause. | The neighbor is never at home. |
