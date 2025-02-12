@@ -29,3 +29,5 @@
 | Unser Nachbar sucht zurzeit eine Wohnung. | Our neighbor is currently looking for an apartment. |
 | Unsere Nachbarin ist nett und sie hat eine Katze. | Our neighbor is nice and she has a cat. |
 | Mein Sofa ist sehr bequem. | My sofa is very comfortable. |
+| Hast du viele Bücher zu Hause? | Do you have many books at home? |
+| Wie viel kostet das Regal? | How much does the shelf cost? |
