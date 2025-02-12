@@ -9,3 +9,4 @@
 | coffee table | Kaffeetisch |
 | flowers | die Blumen |
 | refrigerator | der Kühlschrank |
+| chairs | Stühle |
