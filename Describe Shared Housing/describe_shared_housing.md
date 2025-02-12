@@ -41,3 +41,4 @@
 | Brauchen wir ein regal für das Wohnzimmer? | Do we need a shelf for the living room? |
 | Meine frau ist professorin, sie hat zu viele Bücher. |  My wife is a professor, she has too many books. |
 | Hast du schon ein Sofa für das Wohnzimmer? | Do you already have a sofa for the living room? |
+| Wo ist die Küche? | Where is the kitchen? |
