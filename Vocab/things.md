@@ -11,4 +11,4 @@
 | refrigerator | der Kühlschrank |
 | chairs | Stühle |
 | microwave | Mikrowelle |
-| comforter | Bettdecke |
+| bedspread | Bettdecke |
