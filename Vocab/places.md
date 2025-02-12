@@ -11,3 +11,5 @@
 | stairs | die Treppe |
 | apartment building | Mehrfamilienhaus |
 | shared apartment | WG |
+| living room | Wohnzimmer |
+| bedroom | Schlafzimmer |
