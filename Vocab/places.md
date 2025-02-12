@@ -13,3 +13,4 @@
 | shared apartment | WG |
 | living room | Wohnzimmer |
 | bedroom | Schlafzimmer |
+| kitchen | die Küche |
