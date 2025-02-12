@@ -13,3 +13,6 @@
 | Ich habe zurzeit eine Mitbewohnerin. | I currently have a roommate. |
 | Wohnst du gern allein? | Do you like living alone? |
 | Wir wohnen zurzeit im Mehrfamilienhaus. | We currently live in the apartment building. |
+| Ich mag die Nachbarin. | I like the neighbor. |
+| Kommt deine Nachbarin aur Frankreich? | Is your neighbor from France? |
+| Nein, sie kommt aus Russland. | No, she comes from Russia. |
