@@ -23,3 +23,4 @@
 | Der Nachbar ist nie zu Hause. | The neighbor is never at home. |
 | Unser Nachbar ist Student. Er lernt oft und ist sehr leise. | Our neighbor is student. He studies often and is very quiet. |
 | Meine Katze ist schwarz und liebt Orangen. | My cat is black and loves oranges. |
+| Unser Nachbar ist sehr freundlich. Sein Hund ist schwarz and weiß. | Our neighbor is very friendly. His dog is black and white. |
