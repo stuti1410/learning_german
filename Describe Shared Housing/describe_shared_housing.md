@@ -48,3 +48,6 @@
 | Wir haben nur zwei Stühle. | We have only two chairs. |
 | Haben wir noch vier Stühle? | Do we still have four chairs? |
 | Wie viele Stühle haben wir? | How many chairs do we have? |
+| Wir haben keine Mikrowelle. | We don't have a microwave. |
+| Meine Pizza ist kalt, wo ist die Mikrowelle? | My pizza is cold, where is the microwave? |
+| Wir essen nie im Wohnzimmer. | We never eat in the living room. |
