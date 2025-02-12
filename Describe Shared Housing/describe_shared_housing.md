@@ -31,3 +31,4 @@
 | Mein Sofa ist sehr bequem. | My sofa is very comfortable. |
 | Hast du viele Bücher zu Hause? | Do you have many books at home? |
 | Wie viel kostet das Regal? | How much does the shelf cost? |
+| Ich brauche einen Teppich für das Wohnzimmer. | I need a carpet for the living room. |
