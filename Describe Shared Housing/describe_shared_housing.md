@@ -24,3 +24,7 @@
 | Unser Nachbar ist Student. Er lernt oft und ist sehr leise. | Our neighbor is student. He studies often and is very quiet. |
 | Meine Katze ist schwarz und liebt Orangen. | My cat is black and loves oranges. |
 | Unser Nachbar ist sehr freundlich. Sein Hund ist schwarz and weiß. | Our neighbor is very friendly. His dog is black and white. |
+| Unsere Tochter wohnt in einer WG in Frankfurt. | Our daughter liver in a shared apartment in Franfurt. |
+| Unsere Katze ist schwarz und weiß. | Our cat is black and white. |
+| Unser Nachbar sucht zurzeit eine Wohnung. | Our neighbor is currently looking for an apartment. |
+| Unsere Nachbarin ist nett und sie hat eine Katze. | Our neighbor is nice and she has a cat. |
