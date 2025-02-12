@@ -45,3 +45,6 @@
 | Ich mag den Kühlschrank nicht. | I don't like the refrigerator. |
 | Ich habe hunger, aber es gibt kein Essen im Kühlschrank. | I'm hungry, but there isn't any food in the refrigerator. |
 | Wir haben kein Esszimmer. | We don't have a dining room. |
+| Wir haben nur zwei Stühle. | We have only two chairs. |
+| Haben wir noch vier Stühle? | Do we still have four chairs? |
+| Wie viele Stühle haben wir? | How many chairs do we have? |
