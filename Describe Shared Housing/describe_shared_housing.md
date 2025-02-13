@@ -67,3 +67,19 @@
 | Wir haben nur ein Kopfkissen. | We have only one pillow. |
 | Wir müssen heute zu Hause bleiben. | We have to stay at home today. |
 | Wir müssen ein Bett und eine Bettdecke kaufen. | We have to buy a bed and a bedspread. |
+| Es gibt keinen Aufzug, aber es gibt eine Treppe. | There isn't an elevator, but there is a staircase. |
+| Es gibt nur eine Treppe im Mehrfamilienhaus | There is only one staircase in the apartment building. |
+| Wir wohnen zurzeit im Mehrfamilienhaus. | We are currently living in the apartment building. |
+| Wohnst du gern allein? | Do you like living alone? |
+| Entschuldigung, ich suche die treppe. | Excuse me, I am looking for the staircase. |
+| Viele Leute wohnen im Mehrfamilienhaus. | Many people live in the apartment building. |
+| Er studiert Psychologie und er wohnt in einer WG. | He is studying psychology and he lives in a shared apartment. |
+| Max und Ali, habt ihr einen Garten? Anna, hast du einen Garten? | Max and Ali, do you have a garden. Anna, do you have a garden? |
+| Hast du zurzeit Mitbewohner? | Do you currently have roommates? |
+| Ich wohne in Hamburg. | I live in Hamburg. |
+| Mein Teppich ist schwarz und weiß. | My carpet is black and white. |
+| Unser Nachbar hat eine Katze. Die Katze heißt Heidi und sie ist sehr leise, freundlich und süß. | Our neighbor has a cat. The cat's name is Heidi and she is very quiet, friendly and sweet. |
+| Unsere Nachbarin hat einen Hund. Wir haben auch einen Hund. Ihr Hund ist schwarz und unser Hund ist weiß. | Our neighbor has a dog. We also have a dog. Her dog is black and our dog is white. |
+| Unser Nachbar heißt ist Duo, er spricht viele Sprachen. | Our neighbor's name is Duo, he speaks many languages. |
+| Unser Nachbar ist sehr leise. | Our neighbor is very quiet. |
+| Unsere Nachbarin heißt Anna. Ihre Wohnung ist sehr groß. | Our neighbor's name is Anna. Her apartment is very big. |
