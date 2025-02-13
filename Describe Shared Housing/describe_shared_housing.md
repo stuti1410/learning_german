@@ -83,3 +83,4 @@
 | Unser Nachbar heißt ist Duo, er spricht viele Sprachen. | Our neighbor's name is Duo, he speaks many languages. |
 | Unser Nachbar ist sehr leise. | Our neighbor is very quiet. |
 | Unsere Nachbarin heißt Anna. Ihre Wohnung ist sehr groß. | Our neighbor's name is Anna. Her apartment is very big. |
+| Wir haben drei Stühle für den Tisch. | We have three chairs for the table. |
