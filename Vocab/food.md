@@ -9,3 +9,4 @@
 | taste | schmecken |
 | sausage | die Wurst |
 | rolls | Brötchen |
+| fruit salad | Obstsalat |
