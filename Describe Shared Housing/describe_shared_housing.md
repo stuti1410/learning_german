@@ -84,3 +84,7 @@
 | Unser Nachbar ist sehr leise. | Our neighbor is very quiet. |
 | Unsere Nachbarin heißt Anna. Ihre Wohnung ist sehr groß. | Our neighbor's name is Anna. Her apartment is very big. |
 | Wir haben drei Stühle für den Tisch. | We have three chairs for the table. |
+| Der Teppich ist rot und die Bettdecke ist schwarz. | The carpet is red and the bedspread is black. |
+| Das Bett ist weich und bequem. | The bed is soft and comfortable. |
+| Wir müssen noch ein Kopfkissen kaufen. | We still have to buy a pillow. |
+| Hast du viele Pflanzen im Schlafzimmer? | Do you have many plants in the bedroom? |
